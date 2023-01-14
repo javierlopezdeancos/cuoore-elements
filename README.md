@@ -4,6 +4,8 @@
 
 Native custom elements independently deployable ready to browser consume
 
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
 ## Add a new cuoore element
 
 Create a new folder inside `packages` folder to your new cuoore component called `cuoore-element-{your-element-name}` with this structure:
