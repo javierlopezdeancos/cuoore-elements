@@ -1,0 +1,14 @@
+{
+  "name": "cuoore-element-button",
+  "version": "0.1.0",
+  "license": "gpl-3.0",
+  "autor": "Javier Lopez de Ancos",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc index.ts --outDir dist"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "cuoore-element": "*"
+  }
+}
