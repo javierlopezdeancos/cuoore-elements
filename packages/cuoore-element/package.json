@@ -5,7 +5,7 @@
   "autor": "Javier Lopez de Ancos",
   "main": "dist/index.js",
   "scripts": {
-    "build": "tsc index.ts --outDir dist"
+    "build": "tsc"
   },
   "devDependencies": {}
 }

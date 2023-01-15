@@ -28,6 +28,7 @@ export class Button extends HTMLElement {
     this.render()
   }
 
+  // @ts-expect-error `olVal is a param not used`
   attributeChangedCallback(attrName: 'label' & 'type', oldVal: string, newVal: string): void {
     if (attrName === 'label') {
       this.label = newVal
