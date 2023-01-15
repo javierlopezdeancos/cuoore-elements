@@ -1,1 +1,1 @@
-export const prefix = 'cre'
+export const prefix = 'cuoore'
