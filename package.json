@@ -1,7 +1,10 @@
 {
   "name": "cuoore-elements",
-  "description": "Native custom elements independently deployable ready to browser consume",
-  "autor": "Javier Lopez de Ancos",
+  "author": {
+    "name": "Javier Lopez de Ancos",
+    "email": "javierlopezdeancos@outlook.com",
+    "url": "https://javierlopezdeancos.dev/"
+  },
   "version": "0.1.0",
   "license": "gpl-3.0",
   "scripts": {
